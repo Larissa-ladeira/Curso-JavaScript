@@ -33,6 +33,7 @@ section{
 }
 
 section > div {
+    color: rgba(0, 0, 0, 0.76);
     margin-bottom: 20px;
     font-weight: bold;
 }
